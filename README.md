@@ -2,7 +2,7 @@
 use to open a unity project C# solution in Visual Studio For Mac
 
 *****************************************************************************
-Please make sure you have Visual Studio For Mac installed /Application folder
+Please make sure you have Visual Studio For Mac installed in /Application folder
 *****************************************************************************
 Tested on Unity 5.4.2f2 Personal
 ********************************
