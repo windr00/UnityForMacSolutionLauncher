@@ -3,15 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleName</key>
-	<string>UnitySolutionLauncher</string>
+	<string>Unity Project Launcher</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.companyname.unitysolutionlauncher</string>
+	<string>com.windr.unityprojectlauncher</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
-	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>1.1</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.12</string>
+	<string>10.10</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -41,5 +39,9 @@
 			<string>Viewer</string>
 		</dict>
 	</array>
+	<key>CFBundleVersion</key>
+	<string>15</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.developer-tools</string>
 </dict>
 </plist>
