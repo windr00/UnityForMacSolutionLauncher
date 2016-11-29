@@ -1,5 +1,5 @@
 # Unity For Mac Project Launcher
-use to open a unity project in Unity Editor and it's C# solution in Visual Studio For Mac
+use to open a unity project in Unity Editor and its C# solution in Visual Studio For Mac
 
 Currently, if you set Visual Studio For Mac as Unity's External Script Editor, Visual Studio will only load the selected source file instead of the whole solution. This tool can help this problem
 *****************************************************************************
